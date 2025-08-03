@@ -1,4 +1,4 @@
-# Countries App
+# Countries-App
 
 Esta es una aplicación [Next.js](https://nextjs.org) que muestra información sobre países.
 
